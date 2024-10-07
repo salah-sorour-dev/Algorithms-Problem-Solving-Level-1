@@ -10,5 +10,6 @@ Visual Studio, Visual Studio Code.
 
 # Certificate
 
-[Link Text](../Certificates/certificate-of-completion-for-algorithms-problem-solving-level-1-solutions.pdf)
+![Alt text](../Certificates/certificate-of-completion-for-algorithms-problem-solving-level-1-solutions_page-0001.jpg)
+
 
